@@ -14,7 +14,7 @@ TEST_CASE("Push, pop", "[push_pop]") {
 stack<int> st;
 st.push(1);
 st.push(2);
-REQUIRE(st.pop() == 2);
+REQUIRE(st.pop() == 1);
 REQUIRE(st.pop() == 1);
 }
 TEST_CASE("count", "[count]") {
