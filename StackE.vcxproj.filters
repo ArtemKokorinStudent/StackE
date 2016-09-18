@@ -29,5 +29,8 @@
     <None Include=".gitignore">
       <Filter>Github</Filter>
     </None>
+    <None Include=".travis.yml">
+      <Filter>Github</Filter>
+    </None>
   </ItemGroup>
 </Project>
