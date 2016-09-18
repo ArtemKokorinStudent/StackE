@@ -27,10 +27,10 @@
     <None Include=".travis.yml">
       <Filter>Github</Filter>
     </None>
-    <None Include="FindCPM.cmake">
+    <None Include="README.md">
       <Filter>Github</Filter>
     </None>
-    <None Include="README.md">
+    <None Include="tests\cmake\FindCPM.cmake">
       <Filter>Github</Filter>
     </None>
   </ItemGroup>

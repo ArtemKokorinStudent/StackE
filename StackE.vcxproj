@@ -154,8 +154,8 @@
     <None Include=".gitattributes" />
     <None Include=".gitignore" />
     <None Include=".travis.yml" />
-    <None Include="FindCPM.cmake" />
     <None Include="README.md" />
+    <None Include="tests\cmake\FindCPM.cmake" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt" />
