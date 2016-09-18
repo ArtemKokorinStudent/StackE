@@ -45,14 +45,3 @@ REQUIRE(st3.pop() == 1);
 REQUIRE(st4.pop() == 2);
 REQUIRE(st4.pop() == 1);
 }
-
-int main(int argc, char* const argv[])
-{
-	// global setup...
-
-	int result = Catch::Session().run(argc, argv);
-
-	// global clean-up...
-	system("pause");
-	return result;
-}
