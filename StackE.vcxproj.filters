@@ -35,11 +35,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="CMakeLists.txt">
-      <Filter>Github</Filter>
-    </Text>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="catch.hpp">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
@@ -57,5 +52,10 @@
     <ClCompile Include="tests\source\main.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tests\CMakeLists.txt">
+      <Filter>Github</Filter>
+    </Text>
   </ItemGroup>
 </Project>

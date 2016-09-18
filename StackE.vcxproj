@@ -158,11 +158,11 @@
     <None Include="tests\cmake\FindCPM.cmake" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="catch.hpp" />
     <ClInclude Include="include\stack.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="tests\CMakeLists.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
