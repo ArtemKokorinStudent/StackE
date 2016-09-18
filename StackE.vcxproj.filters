@@ -26,5 +26,8 @@
     <None Include=".gitattributes">
       <Filter>Github</Filter>
     </None>
+    <None Include=".gitignore">
+      <Filter>Github</Filter>
+    </None>
   </ItemGroup>
 </Project>
