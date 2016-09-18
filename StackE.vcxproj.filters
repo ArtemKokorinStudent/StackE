@@ -57,5 +57,8 @@
     <Text Include="tests\CMakeLists.txt">
       <Filter>Github</Filter>
     </Text>
+    <Text Include="CMakeLists.txt">
+      <Filter>Github</Filter>
+    </Text>
   </ItemGroup>
 </Project>
