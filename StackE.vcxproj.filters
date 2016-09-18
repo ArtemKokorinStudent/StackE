@@ -38,4 +38,9 @@
       <Filter>Github</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stack.hpp">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
