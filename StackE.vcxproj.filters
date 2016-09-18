@@ -43,10 +43,10 @@
     <ClCompile Include="sources\stack.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
-    <ClCompile Include="tests\source\tests.cpp">
+    <ClCompile Include="tests\source\main.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
-    <ClCompile Include="tests\source\main.cpp">
+    <ClCompile Include="tests\source\init.cpp">
       <Filter>Файлы исходного кода</Filter>
     </ClCompile>
   </ItemGroup>
