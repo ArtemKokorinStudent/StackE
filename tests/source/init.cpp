@@ -1,7 +1,7 @@
-#define CATCH_CONFIG_MAIN  
 // This tells Catch to provide a main() - only do this in one cpp file
-#include "catch.hpp"
-#include "stack.hpp"
+#include <stack.hpp>
+#include <catch.hpp>
+
 
 TEST_CASE("Stack can be instantiated by various types", "[instantiation]") {
 REQUIRE_NOTHROW(stack<int> st1);
