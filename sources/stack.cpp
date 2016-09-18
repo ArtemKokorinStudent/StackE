@@ -3,3 +3,4 @@
 #include <fstream>
 
 #include "stack.hpp"
+//#include "C:\\Users\\Артем\\GitHub\\StackE\\include\\stack.hpp"
