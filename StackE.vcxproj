@@ -148,7 +148,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sources\stack.cpp" />
-    <ClCompile Include="tests.cpp" />
+    <ClCompile Include="tests\source\tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitattributes" />
