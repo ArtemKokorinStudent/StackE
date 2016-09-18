@@ -33,4 +33,9 @@
       <Filter>Github</Filter>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt">
+      <Filter>Github</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
