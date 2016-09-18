@@ -40,10 +40,10 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stack.hpp">
+    <ClInclude Include="catch.hpp">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="catch.hpp">
+    <ClInclude Include="include\stack.hpp">
       <Filter>Заголовочные файлы</Filter>
     </ClInclude>
   </ItemGroup>
