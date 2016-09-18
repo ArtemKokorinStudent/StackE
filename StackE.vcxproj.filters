@@ -30,6 +30,9 @@
     <None Include="FindCPM.cmake">
       <Filter>Github</Filter>
     </None>
+    <None Include="README.md">
+      <Filter>Github</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt">

@@ -155,6 +155,7 @@
     <None Include=".gitignore" />
     <None Include=".travis.yml" />
     <None Include="FindCPM.cmake" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="CMakeLists.txt" />
